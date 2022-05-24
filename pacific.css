@@ -1,8 +1,9 @@
 * { box-sizing: border-box; }
 body { 
-background-color: #EAEAEA;
+background-color: #90C7E3;
 color: #666666;
-font-family: Verdana, Arial, sans-serif;
+font-family: Verdana, Arial, sans-se rif;
+  margin:0;
 }
 #wrapper { 
 background-color: #FFFFFF;
