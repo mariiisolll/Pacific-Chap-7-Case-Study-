@@ -97,7 +97,7 @@ letter-spacing: .25em;
 nav ul {
 flex-flow: row nowrap;
 justify-content: space-around;
-paddin-right: 2em;
+padding-right: 2em;
 }
 nav li {
 border-bottom: none;
